@@ -1,0 +1,11 @@
+RangeError: Maximum call stack size exceeded
+    at String.replace (native)
+    at Function.st (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:4:6145)
+    at HTMLDocument.b.event.handlers (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:3:28790)
+    at HTMLDocument.b.event.dispatch (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:3:28046)
+    at HTMLDocument.v.handle (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:3:25049)
+    at Object.b.event.trigger (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:3:27423)
+    at HTMLDivElement.<anonymous> (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:4:3107)
+    at Function.b.extend.each (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:3:5257)
+    at b.fn.b.each (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:3:2013)
+    at b.fn.extend.trigger (file:///anaconda/node-webkit/launcher/static/vendor/jquery/1.9.1/jquery.min.js:4:3083)
